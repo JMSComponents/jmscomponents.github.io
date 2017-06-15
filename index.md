@@ -13,8 +13,12 @@ The JMSComponents project that aims to create, as a community, to reduce the rep
 ## Features
 
 * Custom JMSObject serialisation [custom-serdes-jms](https://github.com/JMSComponents/custom-serdes-jms)
-* Avro JMSObject serialisation [avro-jms](https://github.com/JMSComponents/avro-jms)
-* Common Client side metrics [metrics-jms](https://github.com/JMSComponents/metrics-jms)
-* 
+ 
 * Kafka JMS Client [kafka-jms](https://github.com/JMSComponents/kafka-jms)
+** [![Build Status](https://travis-ci.org/JMSComponents/kafka-jms.svg?branch=master)](https://travis-ci.org/JMSComponents/kafka-jms)
+
 * AMQP JMS Client (Currently QPID Fork) [amqp-jms](https://github.com/JMSComponents/amqp-jms)
+
+## In Development
+* Common Client side metrics [metrics-jms](https://github.com/JMSComponents/metrics-jms)
+* Avro JMSObject serialisation [avro-jms](https://github.com/JMSComponents/avro-jms)
